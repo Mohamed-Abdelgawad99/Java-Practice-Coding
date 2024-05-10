@@ -1,1 +1,3 @@
-# Repo for practicing coding with Java and other OOP concepts
+<li>
+Repo for practicing coding with Java and other OOP concepts
+</li>
